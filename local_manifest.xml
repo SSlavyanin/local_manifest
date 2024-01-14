@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!--Trees-->
+  <project path="respkirya/patchrom_miui_w7" name="patchrom_miui_w7" remote="github"/>
+  <project path="Quarx2k/android_kernel_lge_msm8226/tree/cm-11.0" name="Quarx2k/android_kernel_lge_msm8226" remote="github"/>
+</manifest>
